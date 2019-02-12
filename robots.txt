@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaibebo.sunyongfeng.com/sitemap.xml
